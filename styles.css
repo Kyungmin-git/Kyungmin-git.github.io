@@ -1,0 +1,41 @@
+/* css styles */
+/* Theme color */
+:root{
+  --brand: #2E6F95;
+}
+
+/* Links */
+a {
+  color: var(--brand);
+}
+a:hover {
+  color: var(--brand);
+  opacity: 0.85;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--brand);
+}
+
+/* Add space between photo and affiliation text */
+.profile-cols {
+  column-gap: 2.0rem;   /* increase/decrease this */
+  align-items: center;  /* vertically aligns photo and text nicely */
+}
+
+/* Photo styling */
+.profile-photo{
+  border-radius: 14px;     /* soft corners */
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+.navbar {
+  background-color: var(--brand) !important;
+}
+.navbar a, .navbar-brand {
+  color: white !important;
+}
+.navbar a:hover {
+  opacity: 0.9;
+}
