@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site"
+    "text": "📄 Download CV (PDF)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "CV.html#curriculum-vitae",
+    "href": "CV.html#curriculum-vitae",
+    "title": "CV",
     "section": "",
-    "text": "Ph.D. Candidate\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Home",
-    "section": "About Me",
-    "text": "About Me\nI am a geophysicist interested in interpreting Earth systems through seismic signals, with a primary focus on volcanic environments. My research seeks to understand what volcanic seismicity reveals about the physical evolution of volcanic systems, the mechanisms that generate these signals, and how such processes can be reproduced through laboratory experiments and physics-based modeling.\nI am also interested in whether seismic observations can help infer subsurface structures that cannot be directly measured. Beyond volcanoes, I study seismic signals from other environments, including glaciers and landslides."
-  },
-  {
-    "objectID": "index.html#kyungmin-kim",
-    "href": "index.html#kyungmin-kim",
-    "title": "Home",
-    "section": "",
-    "text": "Ph.D. Candidate\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
+    "text": "📄 Download CV (PDF)"
   },
   {
     "objectID": "research.html",
@@ -40,13 +26,6 @@
     "title": "Research",
     "section": "",
     "text": "Tracking subsurface evolution and gas flow at Great Sitkin using the Ensemble Kalman Filter\nBuilding on the leaky gas pocket (LGP) model, this project integrates physics-based modeling of volcanic seismicity with observational seismic data to track volcanic activity. I apply an Ensemble Kalman Filter (EnKF) framework to sequentially assimilate seismic observations and estimate the temporal evolution of key physical parameters, particularly gas flow rate. Model and data uncertainties are explicitly incorporated through ensemble-based updates of state variables and model parameters. This approach enables continuous tracking of subsurface gas dynamics and is currently being applied to monitor the evolving eruptive activity of Great Sitkin Volcano, Alaska.\n\n\n\n\n\nLong-period (LP) seismicity is commonly observed in volcanic systems and is often attributed to the dynamics of magma or hydrothermal fluids. The leaky gas pocket model proposed by Girona et al. (2019) explains LP seismicity as pressure oscillations of trapped gas beneath a volcanic dome coupled with permeable gas flow through the dome.\nIn this project, I apply a Reversible-Jump Bayesian Markov Chain Monte Carlo (RJ-MCMC) approach to estimate probability distributions of key physical parameters governing the system. This framework allows exploration of model complexity while explicitly quantifying uncertainties in inferred parameters. The method is currently applied to Great Sitkin Volcano, Alaska, and will be extended to other volcanic systems."
-  },
-  {
-    "objectID": "research.html#bayesian-inversion-of-lp-seismicity-using-a-gas-pocket-model",
-    "href": "research.html#bayesian-inversion-of-lp-seismicity-using-a-gas-pocket-model",
-    "title": "Research",
-    "section": "Bayesian Inversion of LP Seismicity Using a Gas Pocket Model",
-    "text": "Bayesian Inversion of LP Seismicity Using a Gas Pocket Model\nLong-period (LP) seismicity is commonly observed in volcanic systems and is often attributed to the dynamics of magma or hydrothermal fluids. The leaky gas pocket model proposed by Girona et al. (2019) explains LP seismicity as pressure oscillations of trapped gas beneath a volcanic dome coupled with permeable gas flow through the dome.\nIn this project, I apply a Reversible-Jump Bayesian Markov Chain Monte Carlo (RJ-MCMC) approach to estimate probability distributions of key physical parameters governing the system. This framework allows exploration of model complexity while explicitly quantifying uncertainties in inferred parameters. The method is currently applied to Great Sitkin Volcano, Alaska, and will be extended to other volcanic systems."
   },
   {
     "objectID": "research.html#research-project-with-ingv-italy",
@@ -70,17 +49,24 @@
     "text": "Research Project at Seoul National University\n\nGreenhouse Gas (CO2, CH4, N2O) formation in ice wedge at central Yakutia (Siberia)\nMost of the land in the high latitude region of norhtern hemisphere (Siberia, Alaska, Scandinavia or Northern Canada) consist of Permasfrost. Permafrost have active layer in the surface which melt in summer and frozen in winter, but it perennially frozen under that layer which means ice can survive several years or even tens of thousands of years from last ice age. One of the most common type of ice observed in permafrost is ice wedge which developed in wedge-shape. Analysis of ice wedge can give us information regarding Paleoclimate because it survive through geological time. The gas chemistry of ice wedge is also important to investigate because significant of permafrost will expect to melt due to the climate change and it will emit additional greenhouse gas to the atmopshere. The fieldwork of coring ice wedge sample was held in 2015 summer with the cooperation of SNU and Melnikov Permafrost Research Institute at central Yakutia. The CO2 concentration observed as 7 - 13 % and CH4 concentration observed as 7 - 131 ppm in ice wedge at Cyuie Village. The N2O concentration, which is first measured in my research, show 64- 5500 ppb. The formation of CO2 and CH4 likely due to the biological respiration, which implies microbial activity in sub-zero temperature. The high variability of N2O concentration implies both consumption and generation procedure within the ice wedge."
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "📄 Download CV (PDF)"
+    "text": "Ph.D. Candidate\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
   },
   {
-    "objectID": "CV.html#curriculum-vitae",
-    "href": "CV.html#curriculum-vitae",
-    "title": "CV",
+    "objectID": "index.html#kyungmin-kim",
+    "href": "index.html#kyungmin-kim",
+    "title": "Home",
     "section": "",
-    "text": "📄 Download CV (PDF)"
+    "text": "Ph.D. Candidate\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\nI am a geophysicist interested in interpreting Earth systems through seismic signals, with a primary focus on volcanic environments. My research seeks to understand what volcanic seismicity reveals about the physical evolution of volcanic systems, the mechanisms that generate these signals, and how such processes can be reproduced through laboratory experiments and physics-based modeling.\nI am also interested in whether seismic observations can help infer subsurface structures that cannot be directly measured. Beyond volcanoes, I study seismic signals from other environments, including glaciers and landslides."
   }
 ]
