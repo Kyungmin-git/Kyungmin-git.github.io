@@ -1,0 +1,46 @@
+---
+title: "Publications"
+---
+
+## Publications
+
+### 2023
+
+- Yang, J. W., Ahn, J., Iwahana, G., Ko, N., Kim, J. H., **Kim, K.**, et al., & Han, S. (2023).  
+  Origin of CO₂, CH₄, and N₂O trapped in ice wedges in central Yakutia and their relationship.  
+  *Permafrost and Periglacial Processes, 34*(1), 122–141.  
+  [doi:10.1002/ppp.2176](https://doi.org/10.1002/ppp.2176)
+
+### 2020
+
+- Yang, J. W., Ahn, J., Iwahana, G., Han, S., **Kim, K.**, Fedorov, A. (2020).  
+  Brief Communication: The reliability of gas extraction techniques for analysing CH₄ and N₂O compositions in gas trapped in permafrost ice wedges.  
+  *The Cryosphere, 14*(4), 1311–1324.  
+  [doi:10.5194/tc-14-1311-2020](https://doi.org/10.5194/tc-14-1311-2020)
+
+### 2019
+
+- **Kim, K.**, Yang, J. W., Yoon, H., Byun, E., Fedorov, A., Ryu, Y., Ahn, J. (2019).  
+  Greenhouse gas formation in ice wedge at Cyuie, central Yakutia.  
+  *Permafrost and Periglacial Processes, 30*(1), 48–57.  
+  [doi:10.1002/ppp.1994](https://doi.org/10.1002/ppp.1994)
+
+## Papers Under Review
+
+### 2026
+
+- **Kim, K.**, Girona, T., Spina, L., Taddeucci, J., Taryn, L., Clor, L., Pennacchia, F., Cornelio, C., Spagnuolo, E.  
+  Experimental insights into gas flow-driven seismicity in porous media: Estimating volcanic gas emissions from seismic data.  
+  Submitted to *Geophysical Research Letters* (MS ID: 2026GL126333).
+
+- **Kim, K.**, Girona, T., Anderson, K., Haney, M.  
+  Characterizing the onset of the 2021 Great Sitkin dome-building eruption through the trans-dimensional Bayesian inversion of long-period seismicity.  
+  Submitted to *Journal of Geophysical Research: Solid Earth* (MS ID: 2026JB035613).
+
+## Papers Under Preparation
+
+- **Kim, K.**, Girona, T., Power, J.  
+  Ensemble data assimilation of long-period seismicity during the Great Sitkin eruption since 2021: Implications for gas flow rate and eruption dynamics.
+
+- Sohn, R., **Kim, K.**, Girona, T., Caudron, C.  
+  Tremor and explosive potential of steam pockets beneath Yellowstone Lake.
