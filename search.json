@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
-    "section": "",
-    "text": "📄 Download CV (PDF)"
-  },
-  {
-    "objectID": "CV.html#curriculum-vitae",
-    "href": "CV.html#curriculum-vitae",
-    "title": "CV",
-    "section": "",
-    "text": "📄 Download CV (PDF)"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -49,24 +35,66 @@
     "text": "Research Project at Seoul National University\n\nGreenhouse Gas (CO2, CH4, N2O) formation in ice wedge at central Yakutia (Siberia)\nMost of the land in the high latitude region of norhtern hemisphere (Siberia, Alaska, Scandinavia or Northern Canada) consist of Permasfrost. Permafrost have active layer in the surface which melt in summer and frozen in winter, but it perennially frozen under that layer which means ice can survive several years or even tens of thousands of years from last ice age. One of the most common type of ice observed in permafrost is ice wedge which developed in wedge-shape. Analysis of ice wedge can give us information regarding Paleoclimate because it survive through geological time. The gas chemistry of ice wedge is also important to investigate because significant of permafrost will expect to melt due to the climate change and it will emit additional greenhouse gas to the atmopshere. The fieldwork of coring ice wedge sample was held in 2015 summer with the cooperation of SNU and Melnikov Permafrost Research Institute at central Yakutia. The CO2 concentration observed as 7 - 13 % and CH4 concentration observed as 7 - 131 ppm in ice wedge at Cyuie Village. The N2O concentration, which is first measured in my research, show 64- 5500 ppb. The formation of CO2 and CH4 likely due to the biological respiration, which implies microbial activity in sub-zero temperature. The high variability of N2O concentration implies both consumption and generation procedure within the ice wedge."
   },
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Download CV (PDF)"
+  },
+  {
+    "objectID": "CV.html#curriculum-vitae",
+    "href": "CV.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Download CV (PDF)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Ph.D. Candidate\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
+    "text": "Ph.D. Candidate (defended Sept 8, 2026)\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
   },
   {
     "objectID": "index.html#kyungmin-kim",
     "href": "index.html#kyungmin-kim",
     "title": "Home",
     "section": "",
-    "text": "Ph.D. Candidate\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
+    "text": "Ph.D. Candidate (defended Sept 8, 2026)\nAlaska Volcano Observatory Geophysical Institute\nDepartment of Geosciences\nUniversity of Alaska Fairbanks\n📧 kkim39@alaska.edu"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Home",
     "section": "About Me",
-    "text": "About Me\nI am a geophysicist interested in interpreting Earth systems through seismic signals, with a primary focus on volcanic environments. My research seeks to understand what volcanic seismicity reveals about the physical evolution of volcanic systems, the mechanisms that generate these signals, and how such processes can be reproduced through laboratory experiments and physics-based modeling.\nI am also interested in whether seismic observations can help infer subsurface structures that cannot be directly measured. Beyond volcanoes, I study seismic signals from other environments, including glaciers and landslides."
+    "text": "About Me\nI am a geophysicist interested in interpreting Earth systems through seismic signals, with a primary focus on volcanic environments. My research seeks to understand what volcanic seismicity reveals about the physical evolution of volcanic systems, the mechanisms that generate these signals, and how such processes can be reproduced through laboratory experiments and physics-based modeling.\nBeyond volcanoes, I am interested in whether the same seismic tools can reveal subsurface processes in other settings where direct observation is difficult. The fluid or gas migration through fracture networks, ice dynamics within glaciers, or the onset of slope instability in landslides. I’m curious how physics-based source modeling and emerging machine-learning approaches can be applied across these environments, where seismic signals carry information about processes we cannot directly observe."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Yang, J. W., Ahn, J., Iwahana, G., Ko, N., Kim, J. H., Kim, K., et al., & Han, S. (2023).\nOrigin of CO₂, CH₄, and N₂O trapped in ice wedges in central Yakutia and their relationship.\nPermafrost and Periglacial Processes, 34(1), 122–141.\ndoi:10.1002/ppp.2176\n\n\n\n\n\nYang, J. W., Ahn, J., Iwahana, G., Han, S., Kim, K., Fedorov, A. (2020).\nBrief Communication: The reliability of gas extraction techniques for analysing CH₄ and N₂O compositions in gas trapped in permafrost ice wedges.\nThe Cryosphere, 14(4), 1311–1324.\ndoi:10.5194/tc-14-1311-2020\n\n\n\n\n\nKim, K., Yang, J. W., Yoon, H., Byun, E., Fedorov, A., Ryu, Y., Ahn, J. (2019).\nGreenhouse gas formation in ice wedge at Cyuie, central Yakutia.\nPermafrost and Periglacial Processes, 30(1), 48–57.\ndoi:10.1002/ppp.1994"
+  },
+  {
+    "objectID": "publication.html#publications",
+    "href": "publication.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Yang, J. W., Ahn, J., Iwahana, G., Ko, N., Kim, J. H., Kim, K., et al., & Han, S. (2023).\nOrigin of CO₂, CH₄, and N₂O trapped in ice wedges in central Yakutia and their relationship.\nPermafrost and Periglacial Processes, 34(1), 122–141.\ndoi:10.1002/ppp.2176\n\n\n\n\n\nYang, J. W., Ahn, J., Iwahana, G., Han, S., Kim, K., Fedorov, A. (2020).\nBrief Communication: The reliability of gas extraction techniques for analysing CH₄ and N₂O compositions in gas trapped in permafrost ice wedges.\nThe Cryosphere, 14(4), 1311–1324.\ndoi:10.5194/tc-14-1311-2020\n\n\n\n\n\nKim, K., Yang, J. W., Yoon, H., Byun, E., Fedorov, A., Ryu, Y., Ahn, J. (2019).\nGreenhouse gas formation in ice wedge at Cyuie, central Yakutia.\nPermafrost and Periglacial Processes, 30(1), 48–57.\ndoi:10.1002/ppp.1994"
+  },
+  {
+    "objectID": "publication.html#papers-under-review",
+    "href": "publication.html#papers-under-review",
+    "title": "Publications",
+    "section": "Papers Under Review",
+    "text": "Papers Under Review\n\n2026\n\nKim, K., Girona, T., Spina, L., Taddeucci, J., Taryn, L., Clor, L., Pennacchia, F., Cornelio, C., Spagnuolo, E.\nExperimental insights into gas flow-driven seismicity in porous media: Estimating volcanic gas emissions from seismic data.\nSubmitted to Geophysical Research Letters (MS ID: 2026GL126333).\nKim, K., Girona, T., Anderson, K., Haney, M.\nCharacterizing the onset of the 2021 Great Sitkin dome-building eruption through the trans-dimensional Bayesian inversion of long-period seismicity.\nSubmitted to Journal of Geophysical Research: Solid Earth (MS ID: 2026JB035613)."
+  },
+  {
+    "objectID": "publication.html#papers-under-preparation",
+    "href": "publication.html#papers-under-preparation",
+    "title": "Publications",
+    "section": "Papers Under Preparation",
+    "text": "Papers Under Preparation\n\nKim, K., Girona, T., Power, J.\nEnsemble data assimilation of long-period seismicity during the Great Sitkin eruption since 2021: Implications for gas flow rate and eruption dynamics.\nSohn, R., Kim, K., Girona, T., Caudron, C.\nTremor and explosive potential of steam pockets beneath Yellowstone Lake."
   }
 ]

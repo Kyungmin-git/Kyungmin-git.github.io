@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Kyungmin-git.github.io/CV.html</loc>
-    <lastmod>2026-02-24T23:45:09.740Z</lastmod>
+    <loc>https://Kyungmin-git.github.io/research.html</loc>
+    <lastmod>2026-09-09T21:14:39.166Z</lastmod>
   </url>
   <url>
-    <loc>https://Kyungmin-git.github.io/research.html</loc>
-    <lastmod>2026-02-24T23:45:09.903Z</lastmod>
+    <loc>https://Kyungmin-git.github.io/CV.html</loc>
+    <lastmod>2026-09-09T21:14:39.046Z</lastmod>
   </url>
   <url>
     <loc>https://Kyungmin-git.github.io/index.html</loc>
-    <lastmod>2026-02-24T23:45:09.901Z</lastmod>
+    <lastmod>2026-09-09T21:14:39.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Kyungmin-git.github.io/publication.html</loc>
+    <lastmod>2026-09-09T21:14:39.166Z</lastmod>
   </url>
 </urlset>
