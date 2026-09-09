@@ -5,13 +5,14 @@ website:
   title: "Kyungmin Kim"
   navbar:
     left:
-      - text: Home
-        file: index.qmd
-      - text: Research
-        file: research.qmd
-      - text: CV
-        file: CV.qmd
-
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publication.qmd
+        text: Publications
+      - href: CV.qmd
+        text: CV
 format:
   html:
       theme: cosmo
